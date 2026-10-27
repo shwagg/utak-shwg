@@ -1,0 +1,6 @@
+@Utak.Api_HostAddress = http://localhost:5155
+
+GET {{Utak.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
